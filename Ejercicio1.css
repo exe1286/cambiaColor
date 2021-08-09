@@ -1,0 +1,24 @@
+#contenedor {
+  width: 800px;
+  border: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+.cuadro1 {
+  width: 200px;
+  height: 200px;
+  background-color: gray;
+}
+
+.cuadro2 {
+  width: 200px;
+  height: 200px;
+  background-color: gray;
+}
+
+.cuadro3 {
+  width: 200px;
+  height: 200px;
+  background-color: gray;
+}
